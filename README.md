@@ -4,24 +4,10 @@
 Go to [Coding Exercise](#coding-exercise) for coding specific questions
 
 
-<p align="center">
-  <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=javascript-interview-questions>
-    <img src=https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:70/https://www.filepicker.io/api/file/AKYtjj5SSGyJuyZrkAB2 alt="ZTM Logo">
-  </a>
-  <p align="center">
-    <ol>
-    <li>Take this <a href=https://links.zerotomastery.io/jsp_sudheer>JavaScript Projects</a> course to go from a JavaScript beginner to confidently building your own projects</li>
-    <li>Take this <a href=https://links.zerotomastery.io/mci_sudheer2>coding interview bootcamp</a> if you’re serious about getting hired and don’t have a CS degree</li>
-    <li>Take this <a href=https://links.zerotomastery.io/ajs_sudheer>Advanced JavaScript Course</a> to learn advanced JS concepts and become a top JS developer</li>
-    </ol>
-  </p>
-</p>
-
----
 
 <div align="center">
     <p>
-        <a href="https://www.youtube.com/watch?v=Zb4dPi7CANU">
+        
             JavaScript Interview Questions | Top JavaScript Interview Questions and Answers.
             <div>
                 <img src="https://img.youtube.com/vi/Zb4dPi7CANU/0.jpg" width="220" height="150" alt="JavaScript">
